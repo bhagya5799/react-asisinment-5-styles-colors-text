@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.container{
+    background-color: #1e293b;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.heading{
+    color:#f0bb03;
+    font-size: 45px;
+    font-family: "Roboto";
+    
+
+
+}
+.Thankyou-caption{
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: bold;
+
+}
+button{
+    height: 34px;
+    width: 100px;
+    background-color: #ffffff;
+    color: black;
+    border-radius: 12px;
+    font-weight: bold;
+    font-size: 10px;
+}
+.white{
+    background-color:black;
+
+}
+.green{
+background-color: green;    
+}
